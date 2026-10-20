@@ -1,0 +1,6 @@
+no,pemeriksaan,hasil,catatan
+1,Funnel menurun monoton,lolos,pengguna tiap tahap tidak pernah melebihi tahap sebelumnya; tahap pertama kosong pada kolom pembanding
+2,Konversi di rentang 0 sampai 100%,lolos,"seluruh langkah; tahap pertama bernilai kosong, bukan nol"
+3,Durasi negatif (transisi bertetangga),tercatat,"35 dari 32.477 transisi bertetangga, 0,11%; dilaporkan, tidak dibuang"
+4,Jumlah platform sama dengan total,lolos,cocok sampai satuan di kelima tahap; pecahan kota juga cocok
+5,Tiap tahap himpunan bagian tahap sebelumnya,tidak lolos,"159 keanggotaan tahap muncul tanpa tahap sebelumnya (SignUp 48, VerifyPhone 57, FirstOrder 31, SecondOrder 23)"

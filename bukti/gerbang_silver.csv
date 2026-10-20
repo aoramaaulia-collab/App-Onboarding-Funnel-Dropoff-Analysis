@@ -1,0 +1,9 @@
+ukuran,nilai,harapan,status
+baris bronze,80000,80000,cocok
+pengguna bronze,20000,20000,cocok
+baris bersih (clean_events),76204,76204,cocok
+pengguna bersih (clean_events),20000,20000,cocok
+baris tahap funnel (stage_assignment),52582,52582,cocok
+keanggotaan tahap (user_stages),52582,52582,cocok
+pengguna funnel (user_stages),19994,19994,cocok
+pengguna dengan dua baris di tahap yang sama,0,0,cocok

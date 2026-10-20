@@ -1,0 +1,13 @@
+ukuran,nilai,harapan,status
+pengguna tahap 1 Visit,19946.0,19946.0,cocok
+pengguna tahap 2 SignUp,14874.0,14874.0,cocok
+pengguna tahap 3 VerifyPhone,8144.0,8144.0,cocok
+pengguna tahap 4 FirstOrder,5652.0,5652.0,cocok
+pengguna tahap 5 SecondOrder,3966.0,3966.0,cocok
+konversi SignUp ke VerifyPhone (%),54.75,54.75,cocok
+berhenti di verifikasi (%),45.25,45.25,cocok
+tahap yang jumlah platformnya tidak sama dengan total,0.0,0.0,cocok
+transisi bertetangga diperiksa,32477.0,32477.0,cocok
+transisi bertetangga mundur,35.0,35.0,cocok
+keanggotaan meloncat,159.0,159.0,cocok
+pendaftar tak pernah verifikasi,6787.0,6787.0,cocok

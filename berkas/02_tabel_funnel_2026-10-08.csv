@@ -1,0 +1,6 @@
+stage_number,tahap,pengguna,pengguna_tahap_sebelumnya,konversi_thd_tahap_sebelumnya_persen,berhenti_thd_tahap_sebelumnya_persen,pengguna_hilang,porsi_thd_visit_persen
+1,Visit,19946,,,,,100.0
+2,SignUp,14874,19946,74.57,25.43,5072,74.57
+3,VerifyPhone,8144,14874,54.75,45.25,6730,40.83
+4,FirstOrder,5652,8144,69.4,30.6,2492,28.34
+5,SecondOrder,3966,5652,70.17,29.83,1686,19.88

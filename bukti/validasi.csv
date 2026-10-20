@@ -1,0 +1,13 @@
+ukuran,nilai,harapan,status
+baris bronze,80000,80000,cocok
+pengguna bronze,20000,20000,cocok
+baris silver bersih,76204,76204,cocok
+pengguna silver,20000,20000,cocok
+keanggotaan tahap,52582,52582,cocok
+tahap 1 Visit,19946,19946,cocok
+tahap 2 SignUp,14874,14874,cocok
+tahap 3 VerifyPhone,8144,8144,cocok
+tahap 4 FirstOrder,5652,5652,cocok
+tahap 5 SecondOrder,3966,3966,cocok
+keanggotaan meloncat,159,159,cocok
+pendaftar tak pernah verifikasi,6787,6787,cocok

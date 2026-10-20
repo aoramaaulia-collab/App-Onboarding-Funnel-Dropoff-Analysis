@@ -1,0 +1,7 @@
+# Data mentah modul tidak dipublikasikan
+data/
+*.csv.bak
+.ipynb_checkpoints/
+__pycache__/
+grafik/tanpa_keterangan/
+.DS_Store
