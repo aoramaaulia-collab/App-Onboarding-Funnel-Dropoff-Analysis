@@ -6,7 +6,7 @@ Studi kasus **modul SQL-03 Funnel Analysis**. Sebuah super-app membelanjakan **R
 ![SQL](https://img.shields.io/badge/SQL-bronze%20%C2%B7%20silver%20%C2%B7%20gold-4B5563)
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-analisis-150458?logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-uji%20statistik-8CAAE6?logo=scipy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-uji%20statistik-8CAAE6)
 ![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter&logoColor=white)
 
 ## Tautan cepat
